@@ -1,4 +1,4 @@
-## CUHK(SZ) VPN script 
+# CUHK(SZ) VPN script 
 
 主要功能：一键连接vpn (Cisco anyconnect),免输密码
 
@@ -6,7 +6,7 @@ Ref: [Github.Cisco_anyconnect.ps1@jhorsman](https://gist.github.com/jhorsman/883
 
 
 
-### Component:
+## Component:
 
 `connect.cuhksz.ps1`
 
@@ -14,7 +14,7 @@ Ref: [Github.Cisco_anyconnect.ps1@jhorsman](https://gist.github.com/jhorsman/883
 
 
 
-### Prerequisites:
+## Prerequisites:
 
 1. Already installed Powershell | 已经有Powershell
 
@@ -70,19 +70,19 @@ Ref: [Github.Cisco_anyconnect.ps1@jhorsman](https://gist.github.com/jhorsman/883
 
 
 
-### How to run？
+## How to run？
 
 You can put ` connect.cuhksz.ps1` `disconnect.cuhksz.bat ` anywhere like on the desktop.
 
 你可以把`connect.cuhksz.ps1` `disconnect.cuhksz.bat`放在桌面等任意位置。
 
-##### Connect | 连接：
+#### Connect | 连接：
 
 Right click ` connect.cuhksz.ps1 `, click "run with PowerShell" to complete the connection.
 
 右键`connect.cuhksz.ps1` ，点击”使用Powershell运行“即可完成连接。
 
-##### Disconnect | 断开：
+#### Disconnect | 断开：
 
 Double click `disconnect.cuhk.bat`.
 
